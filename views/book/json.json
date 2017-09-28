@@ -1,0 +1,819 @@
+{
+  "count": 10,
+  "start": 0,
+  "total": 2733,
+  "books": [
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 3808,
+        "average": "9.4",
+        "min": 0
+      },
+      "subtitle": "第 2 版·新版",
+      "author": [
+        "（美）Brian W. Kernighan",
+        "（美）Dennis M. Ritchie"
+      ],
+      "pubdate": "2004-1",
+      "tags": [
+        {
+          "count": 2600,
+          "name": "C",
+          "title": "C"
+        },
+        {
+          "count": 1885,
+          "name": "c语言",
+          "title": "c语言"
+        },
+        {
+          "count": 1804,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 1150,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 984,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 848,
+          "name": "经典",
+          "title": "经典"
+        },
+        {
+          "count": 662,
+          "name": "编程语言",
+          "title": "编程语言"
+        },
+        {
+          "count": 580,
+          "name": "C\/C++",
+          "title": "C\/C++"
+        }
+      ],
+      "origin_title": "The C Programming Language",
+      "image": "https://img3.doubanio.com\/mpic\/s1106934.jpg",
+      "binding": "平装",
+      "translator": [
+        "徐宝文",
+        "李志译",
+        "尤晋元审校"
+      ],
+      "catalog": "出版者的话\n专家指导委员会\n中文版序\n译者序\n校译者简介\n序\n第1版序\n引言\n第1章 导言\n1.1 入门\n1.2 变量与算术表态式\n1.3 for语句\n1.4 符号常量\n1.5 字符输入\/输出\n1.6 数组\n1.7 函数\n1.8 参数——传值调用\n1.9 字符数组\n1.10 外部变量与作用域\n第2章 类型、运算符与表达式\n2.1 变量名\n2.2 数据类型及长度\n2.3 常量\n2.4 声明\n2.5 算术运算符\n2.6 关系运算符与逻辑运算符\n2.7 类型转换\n2.8 自增运算符与自减运算符\n2.9 按位运算符\n2.10 赋值运算符与表达式\n2.11 条件表达式\n2.12 运算符优先级与求值次序\n第3章 控制流\n3.1 语句与程序块\n3.2 if-else语句\n3.3 else-if语句\n3.4 switch语句\n3.5 whil循环与for特环\n3.6 do-while循环\n3.7 break语句与continue语句\n3.8 goto语句与标号\n第4章 涵数与程序结构\n第5章 指针与数组\n第6章 结构\n第7章 输入与输出\n第8章 UNIX系统接口\n附录A 参考手册\n附录B 标准库\n附录C 变更小结\n索引",
+      "pages": "258",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s1106934.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s1106934.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s1106934.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/1139336\/",
+      "id": "1139336",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111128060",
+      "isbn13": "9787111128069",
+      "title": "C程序设计语言",
+      "url": "https:\/\/api.douban.com\/v2\/book\/1139336",
+      "alt_title": "The C Programming Language",
+      "author_intro": "Brian W. Kernighan： 贝尔实验室计算科学研究中心高级研究人员，著名的计算机科学家。他参加了UNIX系统、C语言、AWK语言和许多其他系统的开发，同时出版了许多在计算机领域具有影响的著作，如《The Elements of Programming Style》、《The Practice of Programming》、《The UNIX Programming Environment》、《The AWK Language》、《Software Tools》等。\nDennis M. Ritchie：1967年加入贝尔实验室。他和Ken L. Thompson两人共同设计并实现的C语言改变了程序设计语言发展的轨迹，是程序设计语言发展过程中的一个重要里程碑。与此同时，他们两人还设计并实现了UNIX操作系统。正是由于这两项巨大贡献，Dennis M. Ritchie于1983年获得了计算机界的最高奖——图灵奖。此外，他还获得了ACM、IEEE、贝尔实验室等授予的多种奖项.。",
+      "summary": "在计算机发展的历史上，没有哪一种程序设计语言像C语言这样应用广泛。本书原著即为C语言的设计者之一Dennis M.Ritchie和著名计算机科学家Brian W.Kernighan合著的一本介绍C语言的权威经典著作。我们现在见到的大量论述C语言程序设计的教材和专著均以此书为蓝本。原著第1版中介绍的C语言成为后来广泛使用的C语言版本——标准C的基础。人们熟知的“hello,World\"程序就是由本书首次引入的，现在，这一程序已经成为众多程序设计语言入门的第一课。\n原著第2版根据1987年制定的ANSIC标准做了适当的修订．引入了最新的语言形式，并增加了新的示例，通过简洁的描述、典型的示例，作者全面、系统、准确地讲述了C语言的各个特性以及程序设计的基本方法。对于计算机从业人员来说，《C程序设计语言》是一本必读的程序设计语 言方面的参考书。",
+      "series": {
+        "id": "1163",
+        "title": "计算机科学丛书"
+      },
+      "price": "30.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 878,
+        "average": "8.9",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "[美] Bjarne Stroustrup 贝尔实验室"
+      ],
+      "pubdate": "2002-7",
+      "tags": [
+        {
+          "count": 827,
+          "name": "C++",
+          "title": "C++"
+        },
+        {
+          "count": 315,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 213,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 197,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 162,
+          "name": "C\/C++",
+          "title": "C\/C++"
+        },
+        {
+          "count": 140,
+          "name": "经典",
+          "title": "经典"
+        },
+        {
+          "count": 113,
+          "name": "大师之作",
+          "title": "大师之作"
+        },
+        {
+          "count": 105,
+          "name": "programming",
+          "title": "programming"
+        }
+      ],
+      "origin_title": "The C++ Programming Language (Special Edition)",
+      "image": "https://img1.doubanio.com\/mpic\/s4115109.jpg",
+      "binding": "平装",
+      "translator": [
+        "裘宗燕"
+      ],
+      "catalog": "出版者的话\n专家指导委员会\n中文版序\n译者序\n序\n第2版序\n第1版序\n导论\n第1章 致读者\n第2章 C++概览\n第3章 标准库概览\n第一部分 基本功能\n第4章 类型和声明\n第5章 指针、数组和结构\n第6章 表达式和语句\n第7章 函数\n第8章 名字空间和异常\n第9章 源文件和程序\n第二部分 抽象机制\n第10章 类\n第11章 运算符重载\n第12章 派生类\n第13章 模板\n第14章 异常处理\n第15章 类层次结构\n第16章 库组织和容器\n第17章 标准容器\n第18章 算法和函数对象\n第19章 迭代器和分配器\n第20章 串\n第21章 流\n第22章 数值\n第三部分 用C++做设计\n第23章 开发和设计\n第24章 设计和编程\n第25章 类的作用\n附录和索引",
+      "pages": "905",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s4115109.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s4115109.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s4115109.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/1099889\/",
+      "id": "1099889",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111102029",
+      "isbn13": "9787111102021",
+      "title": "C++程序设计语言（特别版）",
+      "url": "https:\/\/api.douban.com\/v2\/book\/1099889",
+      "alt_title": "The C++ Programming Language (Special Edition)",
+      "author_intro": "Bjarne Stroustrup是C++的设计师和最早的实现者，也是《C++程序设计语言》、《带标注的C++参考手册》和《C++语言的设计与演化》的作者。他从丹麦Aarhus大学和英国牛津大学毕业，现在是AT&T大规模程序设计研究部的负责人，AT&T特别成员，AT&T贝尔实验室特别成员，以及ACM特别成员。Stroustrup的研究兴趣包括分布式系统、操作系统、模拟、设计和程序设计。他也是Addison·Wesley的C++In-Depth系列书籍的编辑。",
+      "summary": "《C++程序设计语言》介绍了标准C++以及由C++所支持的关键性编程技术和设计技术。标准C++较以前的版本功能更强大，其中许多新的语言特性，如名字空间、异常、模板、运行时类型声明等使得新技术得以直接应用。这本书围绕语言及库功能来组织，内容涉及C++的主要特征及标准库，并通过系统软件领域中的实例解释说明一些关键性的概念与技术。\n此特别版增加了关于现场和标准库的异常时安全性两个附录，这就使书的内容完全地和权威性地覆盖了整个C++语言，其标准库，以及关键性的设计技术。",
+      "series": {
+        "id": "1163",
+        "title": "计算机科学丛书"
+      },
+      "price": "85.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 381,
+        "average": "8.8",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "[美] Bjarne Stroustrup"
+      ],
+      "pubdate": "2002-1",
+      "tags": [
+        {
+          "count": 626,
+          "name": "C++",
+          "title": "C++"
+        },
+        {
+          "count": 220,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 183,
+          "name": "C\/C++",
+          "title": "C\/C++"
+        },
+        {
+          "count": 164,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 120,
+          "name": "编程语言",
+          "title": "编程语言"
+        },
+        {
+          "count": 99,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 98,
+          "name": "经典",
+          "title": "经典"
+        },
+        {
+          "count": 74,
+          "name": "programming",
+          "title": "programming"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s24436633.jpg",
+      "binding": "平装",
+      "translator": [
+        "裘宗燕"
+      ],
+      "catalog": "出版者的话\n专家指导委员会\n译者序\n前言\n致读者\n第一部分\n第1章 C++的史前时代\n第2章 带类的C\n第3章 C++的诞生\n第4章 C++语言设计规则\n第5章 1985―1993年表\n第二部分\n第10章 存储管理\n第11章 重载\n第12章 多重继承\n第13章 类概念的精炼\n第14章 强制\n参考文献\n索引",
+      "pages": "370",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s24436633.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s24436633.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s24436633.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/1096216\/",
+      "id": "1096216",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111090985",
+      "isbn13": "9787111090984",
+      "title": "C++语言的设计和演化",
+      "url": "https:\/\/api.douban.com\/v2\/book\/1096216",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "这本书是C++的设计者关于C++语言的最主要著作之一。作者综合性地论述了C++的历史和发展，C++中各种重要机制的本质意义和设计背景，这些机制的基本用途和使用方法，讨论了C++所适合的应用领域及其未来的发展前景。",
+      "price": "48.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 530,
+        "average": "9.7",
+        "min": 0
+      },
+      "subtitle": "(英文版·第2版)",
+      "author": [
+        "Brian W. Kernighan",
+        "Dennis M. Ritchie"
+      ],
+      "pubdate": "2006-8-1",
+      "tags": [
+        {
+          "count": 236,
+          "name": "c",
+          "title": "c"
+        },
+        {
+          "count": 205,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 152,
+          "name": "C语言",
+          "title": "C语言"
+        },
+        {
+          "count": 147,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 111,
+          "name": "经典",
+          "title": "经典"
+        },
+        {
+          "count": 105,
+          "name": "programming",
+          "title": "programming"
+        },
+        {
+          "count": 96,
+          "name": "K&R",
+          "title": "K&R"
+        },
+        {
+          "count": 90,
+          "name": "C",
+          "title": "C"
+        }
+      ],
+      "origin_title": "The C Programming Language",
+      "image": "https://img1.doubanio.com\/mpic\/s5779827.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "序第1版序IntroductionChapter 1. A Tutorial Introduction       1.1  Getting Started       1.2  Variables and Arithmetic Expressions       1.3  The For Statement       1.4  Symbolic Constants       1.5  Character Input and Output       1.6  Arrays       1.7  Functions       1.8  Arguments--Call by Value       1.9  Character Arrays       1.10 External Variables and ScopeChapter 2. Types, Operators, and Expressions       2.1  Variable Names       2.2  Data Types and Sizes       2.3  Constants       2.4  Declarations        2.5  Arithmetic Operators        2.6  Relational and Logical Operators        2.7  Type Conversions        2.8  Increment and Decrement Operators        2.9  Bitwise Operators        2.10 Assignment Operators and Expressions        2.11 Conditional Expressions        2.12 Precedence and Order of Evaluation Chapter 3. Control Flow        3.1  Statements and Blocks        3.2  If-Else       3.3  Else-If       3.4  Switch       3.5  Loops--While and For       3.6  Loops-Do-while       3.7  Break and Continue       3.8  Goto and LabelsChapter 4. Functions and Program Structure       4.1  Basics of Functions       4.2  Functions Returning Non-integers       4.3  External Variables       4.4  Scope Rules       4.5  Header Files       4.6  Static Variables       4.7  Register Variables       4.8  Block Structure       4.9  Initialization       4.10 Recursion       4.11 The C PreprocessorChapter 5. Pointers and Arrays       5.1  Pointers and Addresses       5.2  Pointers and Function Arguments        5.3  Pointers and Arrays       5.4  Address Arithmetic       5.5  Character Pointers and Functions       5.6  Pointer Arrays; Pointers to Pointers       5.7  Multi-dimensional Arrays       5.8  Initialization of Pointer Arrays       5.9  Pointers vs. Multi-dimensional Arrays       5.10 Command-line Arguments       5.11 Pointers to Functions       5.12 Complicated DeclarationsChapter 6. Structures       6.1  Basics of Structures       6.2  Structures and Functions       6.3  Arrays of Structures       6.4  Pointers to Structures       6.5  Self-referential Structures       6.6  Table Lookup       6.7  Typedef       6.8  Unions       6.9  Bit-fieldsChapter 7. Input and Output       7.1  Standard Input and Output       7.2  Formatted Output--Printf      7.3  Variable-length Argument Lists      7.4  Formatted Input-Scanf      7.5  File Access      7.6  Error Handling--Stderr and Exit      7.7  Line Input and Output      7.8  Miscellaneous FunctionsChapter 8. The UNIX System Interface       8.1  File Descriptors      8.2  Low Level I\/O-Read and Write      8.3  Open, Creat, Close, Unlink       8.4  Random Access--Lscek       8.5  Example--An Implementation of Fopen and Getc       8.6  Example--Listing Directories       8.7  Example--A Storage AllocatorAppendix A. Reference Marital       AI  Introduction       A2  Lexical Conventions       A3  Syntax Notation       A4  Meaning of Identifiers       A5  Objects and Lvalues       A6  Conversions       A7  Expressions       A8  Declarations       A9  Statements       AI0 External Declarations       All Scopeand Linkage       A12 Preprocessing       A13 GrammarAppendix B. Standard Library       B1  Input and Output: <stdio.h>       B2  Character Class Tests: <ctype.h>       B3  String Functions: <string.h>       B4  Mathematical Functions: <math.h>       B5  Utility Functions: <stdlib.h>       B6  Diagnostics: <assert.h>       B7  Variable Argument Lists: <stdarg.h>       B8 Non-local Jumps: <setjmp.h>       B9  Signals: <signal.h>       B10 Date and Time Functions: <time.h>       BI 1 Implementation-defined Limits: <limits.h> and <float.h>Appendix C. Summary of ChangesIndex",
+      "pages": "272",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s5779827.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s5779827.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s5779827.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/1882483\/",
+      "id": "1882483",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111196260",
+      "isbn13": "9787111196266",
+      "title": "C程序设计语言",
+      "url": "https:\/\/api.douban.com\/v2\/book\/1882483",
+      "alt_title": "The C Programming Language",
+      "author_intro": "Brian W.Kernighan，贝尔实验室计算科学研究中心高级研究人员，著名的计算机科学家。他参加了UNIX系统、C语言、AWK语言和许多其他系统的开发，同时出版了许多在计算机领域具有影响的著作，包括《The Elements of Programming Style》、《The Practice of Programming》、《The UNIX Programming Environment》、《The AWK Language》、《Software Tools》等。",
+      "summary": "在计算机发展的历史上，没有哪一种程序设计语言像C语言这样应用广泛。本书是C语言的设计者之一Dennis M.Ritchie和著名计算机科学家Brian W.Kernighan合著的一本介绍C语言的权威经典著作。我们现在见到的大量论述C语言程序设计的教材和专著均以此书为蓝本。本书第1版中介绍的C语言成为后来广泛使用的C语言版本——标准C的基础。人们熟知的“hello,World\"程序就是由本书首次引入的。现在，这一程序已经成为众多程序设计语言入门的第一课。\n第2版根据1987年制定的ANSIC标准做了适当的修订，引入了最新的语言形式，并增加了新的示例。通过简洁的描述、典型的示例，作者全面、系统、准确地讲述了C语言的各个特性以及程序设计的基本方法。对于计算机从业人员来说，本书是一本必读的程序设计语言方面的参考书。",
+      "series": {
+        "id": "1895",
+        "title": "经典原版书库"
+      },
+      "price": "35.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 524,
+        "average": "7.4",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "谭浩强"
+      ],
+      "pubdate": "2001-12-1",
+      "tags": [
+        {
+          "count": 345,
+          "name": "C语言",
+          "title": "C语言"
+        },
+        {
+          "count": 223,
+          "name": "C语言程序设计",
+          "title": "C语言程序设计"
+        },
+        {
+          "count": 134,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 116,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 103,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 85,
+          "name": "C",
+          "title": "C"
+        },
+        {
+          "count": 66,
+          "name": "教材",
+          "title": "教材"
+        },
+        {
+          "count": 58,
+          "name": "教科书",
+          "title": "教科书"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s1150876.jpg",
+      "binding": "平装(无盘)",
+      "translator": [],
+      "catalog": "第一章 C语言概述\n第二章 数据类型、运算符与表达式\n第三章 最简单的C程序设计――顺序程序设计\n第四章 选择结构程序设计\n第五章 循环控制\n第六章 数组\n第七章 函数\n第八章 预处理命令\n第九章 指针\n第十章 结构体与共用体\n第十一章 位运算\n第十二章 文件\n第十三章 常见错误和程序调试\n附录I 常用字符与ASCII代码对照表\n……\n参考文献",
+      "pages": "338",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s1150876.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s1150876.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s1150876.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/1208843\/",
+      "id": "1208843",
+      "publisher": "清华大学出版社",
+      "isbn10": "7302037914",
+      "isbn13": "9787302037910",
+      "title": "C语言程序设计",
+      "url": "https:\/\/api.douban.com\/v2\/book\/1208843",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "《C语言程序》功能丰富，使用灵活，可移植性好，既具有高级语言的优点，又具有低级语言的许多特点，现可以用为编写系统软件，又可用于编写应用软件，是国内外广泛使用的计算机语言。C程序设计是计算机应用人员应掌握的基本功。针对C语言比较难学的情况，作者对全书内容做了精心安排，分解难点，减小台阶，用通俗易懂的语言和丰富的例题解释清楚复杂的概念。",
+      "price": "24.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 124,
+        "average": "8.7",
+        "min": 0
+      },
+      "subtitle": "本书是极负盛名的C语言入门经典教材，其第一版发行至今已有二十年的历史 !",
+      "author": [
+        "（美）Stephen Kochan"
+      ],
+      "pubdate": "2006年",
+      "tags": [
+        {
+          "count": 523,
+          "name": "c语言",
+          "title": "c语言"
+        },
+        {
+          "count": 252,
+          "name": "C语言编程",
+          "title": "C语言编程"
+        },
+        {
+          "count": 249,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 225,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 220,
+          "name": "入门",
+          "title": "入门"
+        },
+        {
+          "count": 160,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 127,
+          "name": "c",
+          "title": "c"
+        },
+        {
+          "count": 104,
+          "name": "教程",
+          "title": "教程"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s26387712.jpg",
+      "binding": "平装",
+      "translator": [
+        "张小潘"
+      ],
+      "catalog": "",
+      "pages": "543",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s26387712.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s26387712.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s26387712.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/1786294\/",
+      "id": "1786294",
+      "publisher": "电子社博文视点资讯有限公司",
+      "isbn10": "7121007355",
+      "isbn13": "9787121007354",
+      "title": "C语言编程：一本全面的C语言入门教程（第三版）",
+      "url": "https:\/\/api.douban.com\/v2\/book\/1786294",
+      "alt_title": "Programming in C：A Complete introduction to the C programming language，Third Edition",
+      "author_intro": "",
+      "summary": "本书是极负盛名的C语言入门经典教材，其第一版发行至今已有20年的历史。本书内容详实全面，由浅入深，示例丰富，并在每个章节后面附有部分习题，非常适合读者自学使用。除此之外，《C语言编程》一书对于C语言标准的最新进展、C语言常见开发工具以及管理C语言大型项目等重要方面，也进行了深入浅出的说明。",
+      "price": "59"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 165,
+        "average": "8.7",
+        "min": 0
+      },
+      "subtitle": "(第1～4部分)基础知识、数据结构、排序及搜索",
+      "author": [
+        "塞奇威克"
+      ],
+      "pubdate": "2009-10",
+      "tags": [
+        {
+          "count": 375,
+          "name": "算法",
+          "title": "算法"
+        },
+        {
+          "count": 194,
+          "name": "C",
+          "title": "C"
+        },
+        {
+          "count": 152,
+          "name": "数据结构",
+          "title": "数据结构"
+        },
+        {
+          "count": 105,
+          "name": "算法与数据结构",
+          "title": "算法与数据结构"
+        },
+        {
+          "count": 74,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 60,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 53,
+          "name": "Algorithm",
+          "title": "Algorithm"
+        },
+        {
+          "count": 48,
+          "name": "计算机科学",
+          "title": "计算机科学"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s6083105.jpg",
+      "binding": "平装",
+      "translator": [
+        "霍红卫"
+      ],
+      "catalog": "",
+      "pages": "456",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s6083105.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s6083105.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s6083105.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/4065258\/",
+      "id": "4065258",
+      "publisher": "机械工业出版社",
+      "isbn10": "7111275713",
+      "isbn13": "9787111275718",
+      "title": "算法：C语言实现",
+      "url": "https:\/\/api.douban.com\/v2\/book\/4065258",
+      "alt_title": "Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching",
+      "author_intro": "Robed Sedgewick拥有斯坦福大学博士学位(导师为Donald E. Knuth)，昔林斯顿大学计算机科学系教授，Adobe Systems公司董事，曾是XeroxPARC的研究人员，还曾就职于美国国防部防御分析研究所以及INRIA。除本书外，他还与Philippe Flajolet合著了《算法分析导论》一书",
+      "summary": "《算法:C语言实现(第1-4部分)基础知识、数据结构、排序及搜索(原书第3版)》细腻讲解计算机算法的C语言实现。全书分为四部分，共16章。包括基本算法分析原理，基本数据结构、抽象数据结构、递归和树等数据结构知识，选择排序、插入排序、冒泡排序、希尔排序、快速排序方法、归并和归并排序方法、优先队列与堆排序方法、基数排序方法以及特殊用途的排序方法，并比较了各种排序方法的性能特征，在进一步讲解符号表、树等抽象数据类型的基础上，重点讨论散列方法、基数搜索以及外部搜索方法。书中提供了用C语言描述的完整算法源程序，并且配有丰富的插图和练习，还包含大量简洁的实现将理论和实践成功地相结合，这些实现均可用在真实应用上。\n《算法:C语言实现(第1-4部分)基础知识、数据结构、排序及搜索(原书第3版)》内容丰富，具有很强的实用价值，适合作为高等院校计算机及相关专业本科生算法课程的教材，也是广大研究人员的极佳参考读物。",
+      "series": {
+        "id": "1163",
+        "title": "计算机科学丛书"
+      },
+      "price": "79.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 215,
+        "average": "8.8",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "霍顿 (Ivor Horton)"
+      ],
+      "pubdate": "2008-4-1",
+      "tags": [
+        {
+          "count": 422,
+          "name": "C语言",
+          "title": "C语言"
+        },
+        {
+          "count": 155,
+          "name": "入门",
+          "title": "入门"
+        },
+        {
+          "count": 139,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 114,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 92,
+          "name": "编程语言",
+          "title": "编程语言"
+        },
+        {
+          "count": 86,
+          "name": "C",
+          "title": "C"
+        },
+        {
+          "count": 69,
+          "name": "经典教材",
+          "title": "经典教材"
+        },
+        {
+          "count": 58,
+          "name": "程序语言",
+          "title": "程序语言"
+        }
+      ],
+      "origin_title": "Beginning C:from novice to professional",
+      "image": "https://img1.doubanio.com\/mpic\/s28035177.jpg",
+      "binding": "平装",
+      "translator": [],
+      "catalog": "第1章 c语言编程\n1.1 创建c程序\n1.1.1 编辑\n1.1.2 编译\n1.1.3 链接\n1.1.4 执行\n1.2 创建第一个程序\n1.3 编辑第一个程序\n1.4 处理错误\n1.5 剖析一个简单的程序\n1.5.1 注释\n1.5.2 预处理指令\n1.5.3 定义main()函数\n1.5.4 关键字\n1.5.5 函数体\n1.5.6 输出信息\n1.5.7 参数\n1.5.8 控制符\n1.6 用c语言开发程序\n1.6.1 了解问题\n1.6.2 详细设计\n1.6.3 实施\n1.6.4 测试\n1.7 函数及模块化编程\n1.8 常见错误\n1.9 要点\n1.10 小结\n1.11 习题\n第2章 编程初步\n2.1 计算机的内存\n2.2 什么是变量\n2.3 存储数值的变量\n2.3.1 整数变量\n2.3.2 变量的命名\n2.3.3 变量的使用\n2.3.4 变量的初始化\n2.3.5 算术语句\n2.4 变量与内存\n2.5 整数变量类型\n2.5.1 无符号的整数类型\n2.5.2 使用整数类型\n2.5.3 指定整数常量\n2.6 浮点数\n2.7 浮点数变量\n2.8 使用浮点数完成除法运算\n2.8.1 控制小数位数\n2.8.2 控制输出的字段宽度\n2.9 较复杂的表达式\n2.10 定义常量\n2.10.1 极限值\n2.10.2 sizeof运算符\n2.11 选择正确的类型\n2.12 强制类型转换\n2.12.1 自动转换类型\n2.12.2 隐式类型转换的规则\n2.12.3 赋值语句中的隐式类型转换\n2.13 再谈数值数据类型\n2.13.1 字符类型\n2.13.2 字符的输入输出\n2.13.3 宽字符类型\n2.13.4 枚举\n2.13.5 存储布尔值的变量\n2.13.6 复数类型\n2.14 赋值操作的op=形式\n2.15 数学函数\n2.16 设计一个程序\n2.16.1 问题\n2.16.2 分析\n2.16.3 解决方案\n2.17 小结\n2.18 练习\n第3章 条件判断\n3.1 判断过程\n3.1.1 算术比较\n3.1.2 涉及关系运算符的表达式\n3.1.3 基本的if语句\n3.1.4 扩展if语句：if-else\n3.1.5 在if语句中使用代码块\n3.1.6 嵌套的if语句\n3.1.7 更多的关系运算符\n3.1.8 逻辑运算符\n3.1.9 条件运算符\n3.1.10 运算符的优先级\n3.2 多项选择问题\n3.2.1 给多项选择使用else-if语句\n3.2.2 switch语句\n3.2.3 goto语句\n3.3 按位运算符\n3.3.1 按位运算符的op=用法\n3.3.2 使用按位运算符\n3.4 设计程序\n3.4.1 问题\n3.4.2 分析\n3.4.3 解决方案\n3.5 小结\n3.6 练习\n第4章 循环\n4.1 循环\n4.2 递增和递减运算符\n4.3 for循环\n4.4 for循环的一般语法\n4.5 再谈递增和递减运算符\n4.5.1 递增运算符\n4.5.2 递增运算符的前置和后置形式\n4.5.3 递减运算符\n4.6 再论for循环\n4.6.1 修改for循环变量\n4.6.2 没有参数的for循环\n4.6.3 循环内的break语句\n4.6.4 使用for循环限制输入\n4.6.5 生成伪随机整数\n4.6.6 再谈循环控制选项\n4.6.7 浮点类型的循环控制变量\n4.7 while循环\n4.8 嵌套循环\n4.9 嵌套循环和goto语句\n4.10 do-while循环\n4.11 continue语句\n4.12 设计程序\n4.12.1 问题\n4.12.2 分析\n4.12.3 解决方案\n4.13 小结\n4.14 习题\n第5章 数组\n5.1 数组简介\n5.1.1 不用数组的程序\n5.1.2 什么是数组\n5.1.3 使用数组\n5.2 内存\n5.3 数组和地址\n5.4 数组的初始化\n5.5 确定数组的大小\n5.6 多维数组\n5.7 多维数组的初始化\n5.8 设计一个程序\n5.8.1 问题\n5.8.2 分析\n5.8.3 解决方案\n5.9 小结\n5.10 习题\n第6章 字符串和文本的应用\n6.1 什么是字符串\n6.2 处理字符串和文本的方法\n6.3 字符串操作\n6.3.1 连接字符串\n6.3.2 字符串数组\n6.4 字符串库函数\n6.4.1 使用库函数复制字符串\n6.4.2 使用库函数确定字符串的长度\n6.4.3 使用库函数连接字符串\n6.4.4 比较字符串\n6.4.5 搜索字符串\n6.5 分析和转换字符串\n6.5.1 转换字符\n6.5.2 将字符串转换成数值\n6.7 使用宽字符串\n6.8 设计一个程序\n6.8.1 问题\n6.8.2 分析\n6.8.3 解决方案\n6.9 小结\n6.10 习题\n第7章 指针\n7.1 指针初探\n7.1.1 声明指针\n7.1.2 通过指针访问值\n7.1.3 使用指针\n7.1.4 指向常量的指针\n7.1.5 常量指针\n7.1.6 指针的命名\n7.2 数组和指针\n7.3 多维数组\n7.3.1 多维数组和指针\n7.3.2 访问数组元素\n7.4 内存的使用\n7.4.1 动态内存分配：malloc()函数\n7.4.2 分配内存时使用sizeof运算符\n7.4.3 用calloc()函数分配内存\n7.4.4 释放动态分配的内存\n7.4.5 重新分配内存\n7.5 使用指针处理字符串\n7.5.1 更多地控制字符串输入\n7.5.2 使用指针数组\n7.6 设计程序\n7.6.1 问题\n7.6.2 分析\n7.6.3 解决方案\n7.7 小结\n7.8 习题\n第8章 程序的结构\n8.1 程序的结构\n8.1.1 变量的作用域和生存期\n8.1.2 变量的作用域和函数\n8.2 函数\n8.2.1 定义函数\n8.2.2 return语句\n8.3 按值传递机制\n8.4 函数声明\n8.5 指针用作参数和返回值\n8.5.1 常量参数\n8.5.2 从函数中返回指针值\n8.5.3 在函数中递增指针\n8.6 小结\n8.7 习题\n第9章 函数再探\n9.1 函数指针\n9.1.1 声明函数指针\n9.1.2 通过函数指针调用函数\n9.1.3 函数指针数组\n9.1.4 作为变元的函数指针\n9.2 函数中的变量\n9.2.1 静态变量：函数内部的追踪\n9.2.2 在函数之间共享变量\n9.3 调用自己的函数：递归\n9.4 变元个数可变的函数\n9.4.1 复制va_list\n9.4.2 长度可变的变元列表的基本规则\n9.5 main()函数\n9.6 结束程序\n9.7 函数库：头文件\n9.8 提高性能\n9.8.1 内联声明函数\n9.8.2 使用restrict关键字\n9.9 设计程序\n9.9.1 问题\n9.9.2 分析\n9.9.3 解决方案\n9.10 小结\n9.11 习题\n第10章 基本输入和输出操作\n10.1 输入和输出流\n10.2 标准流\n10.3 键盘输入\n10.3.1 格式化键盘输入\n10.3.2 输入格式控制字符串\n10.3.3 输入格式字符串中的字符\n10.3.4 输入浮点数的各种变化\n10.3.5 读取十六进制和八进制值\n10.3.6 用scanf()读取字符\n10.3.7 scanf()的陷阱\n10.3.8 从键盘上输入字符串\n10.3.9 键盘的非格式化输入\n10.4 屏幕输出\n10.4.1 使用printf()格式输出到屏幕\n10.4.2 转义序列\n10.4.3 整数输出\n10.4.4 输出浮点数\n10.4.5 字符输出\n10.5 其他输出函数\n10.5.1 屏幕的非格式化输出\n10.5.2 数组的格式化输出\n10.5.3 数组的格式化输入\n10.6 打印机输出\n10.7 小结\n10.8 习题\n第11章 结构化数据\n11.1 数据结构：使用struct\n11.1.1 定义结构类型和结构变量\n11.1.2 访问结构成员\n11.1.3 未命名的结构\n11.1.4 结构数组\n11.1.5 表达式中的结构\n11.1.6 结构指针\n11.1.7 为结构动态分配内存\n11.2 再探结构成员\n11.2.1 将一个结构作为另一个结构的成员\n11.2.2 声明结构中的结构\n11.2.3 将结构指针用作结构成员\n11.2.4 双向链表\n11.2.5 结构中的位字段\n11.3 结构与函数\n11.3.1 结构作为函数的变元\n11.3.2 结构指针作为函数变元\n11.3.3 作为函数返回值的结构\n11.3.4 修改程序\n11.3.5 二叉树\n11.4 共享内存\n11.4.1 联合\n11.4.2 联合指针\n11.4.3 联合的初始化\n11.4.4 联合中的结构成员\n11.5 定义自己的数据类型\n11.5.1 结构与类型定义(typedef)功能\n11.5.2 使用typedef简化代码\n11.6 设计程序\n11.6.1 问题\n11.6.2 分析\n11.6.3 解决方案\n11.7 小结\n11.8 习题\n第12章 处理文件\n12.1 文件的概念\n12.1.1 文件中的位置\n12.1.2 文件流\n12.2 文件访问\n12.2.1 打开文件\n12.2.2 文件重命名\n12.2.3 关闭文件\n12.2.4 删除文件\n12.3 写入文本文件\n12.4 读取文本文件\n12.5 将字符串写入文本文件\n12.6 从文本文件中读入字符串\n12.7 格式化文件的输入输出\n12.7.1 格式化文件输出\n12.7.2 格式化文件输入\n12.8 错误处理\n12.9 再探文本文件操作模式\n12.10 二进制文件的输入输出\n12.10.1 指定二进制模式\n12.10.2 写入二进制文件\n12.10.3 读取二进制文件\n12.11 在文件中移动\n12.11.1 文件定位操作\n12.11.2 找出我们在文件中的位置\n12.11.3 在文件中设定位置\n12.12 使用临时文件\n12.12.1 创建临时文件\n12.12.2 创建唯一的文件名\n12.13 更新二进制文件\n12.13.1 修改文件的内容\n12.13.2 从键盘读取记录\n12.13.3 将记录写入文件\n12.13.4 从文件中读取记录\n12.13.5 写入文件\n12.13.6 列出文件内容\n12.13.7 更新已有的文件内容\n12.14 文件打开模式小结\n12.15 设计程序\n12.15.1 问题\n12.15.2 分析\n12.15.3 解决方案\n12.16 小结\n12.17 习题\n第13章 支持功能\n13.1 预处理\n13.1.1 在程序中包含头文件\n13.1.2 外部变量及函数\n13.1.3 替换程序源代码\n13.1.4 宏替换\n13.1.5 看起来像函数的宏\n13.1.6 多行上的预处理指令\n13.1.7 字符串作为宏参数\n13.1.8 结合两个宏展开式的结果\n13.2 预处理器逻辑指令\n13.2.1 条件编译\n13.2.2 测试指定值的指令\n13.2.3 多项选择\n13.2.4 标准预处理宏\n13.3 调试方法\n13.3.1 集成的调试器\n13.3.2 调试阶段的预处理器\n13.3.3 使用assert()宏\n13.4 其他库函数\n13.4.1 日期和时间函数库\n13.4.2 获取日期\n13.5 小结\n13.6 习题\n附录a 计算机中的数学知识\n附录b ascii字符代码定义\n附录c c语言中的保留字\n附录d 输入输出格式指定符",
+      "pages": "571",
+      "images": {
+        "small": "https://img1.doubanio.com\/spic\/s28035177.jpg",
+        "large": "https://img1.doubanio.com\/lpic\/s28035177.jpg",
+        "medium": "https://img1.doubanio.com\/mpic\/s28035177.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/3043693\/",
+      "id": "3043693",
+      "publisher": "清华大学出版社",
+      "isbn10": "7302170835",
+      "isbn13": "9787302170839",
+      "title": "C语言入门经典",
+      "url": "https:\/\/api.douban.com\/v2\/book\/3043693",
+      "alt_title": "Beginning C:from novice to professional",
+      "author_intro": "杨浩，知名译者，大学讲师，从事机械和计算机方面的教学和研究多年，发表论文数篇，参编和翻译的图书多达20余部，还曾多次获得市部级奖项。近几年一直在跟踪.NET技术的发展，积极从事.NET技术文档和图书的翻译工作。",
+      "summary": "本书是编程语言先驱者Ivor Horton的经典之作，是C语言方面最畅销的图书品种之一。本书集综合性、实用性为一体，是学习C语言的优秀入门教材，在世界范围内广受欢迎，口碑极佳。书中除了讲解C程序设计语言，还广泛介绍了作为一名C程序设计人员应该掌握的必要知识，并提供了大量的实用性很强的编程实例。本书的目标是使你在C语言程序设计方面由一位初学者成为一位称职的程序员。读者基本不需要具备任何编程知识，即可通过本书从头开始编写自己的C程序。",
+      "series": {
+        "id": "9751",
+        "title": "wrox红皮书"
+      },
+      "price": "69.80元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 236,
+        "average": "9.2",
+        "min": 0
+      },
+      "subtitle": "现代方法",
+      "author": [
+        "K. N. King"
+      ],
+      "pubdate": "2010-4",
+      "tags": [
+        {
+          "count": 242,
+          "name": "C语言",
+          "title": "C语言"
+        },
+        {
+          "count": 162,
+          "name": "C",
+          "title": "C"
+        },
+        {
+          "count": 109,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 102,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 101,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 65,
+          "name": "C\/C++",
+          "title": "C\/C++"
+        },
+        {
+          "count": 57,
+          "name": "编程语言",
+          "title": "编程语言"
+        },
+        {
+          "count": 39,
+          "name": "Programming",
+          "title": "Programming"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s4171870.jpg",
+      "binding": "平装",
+      "translator": [
+        "吕秀锋",
+        "黄倩"
+      ],
+      "catalog": "第1章 C语言概述1\n1.1 C语言的历史1\n1.1.1 起源1\n1.1.2 标准化1\n1.1.3 基于C的语言2\n1.2 C语言的优缺点3\n1.2.1 C语言的优点3\n1.2.2 C语言的缺点3\n1.2.3 高效地使用C语言4\n问与答5\n第2章 C语言基本概念7\n2.1 编写一个简单的C程序7\n程序显示双关语7\n2.1.1 编译和链接8\n2.1.2 集成开发环境8\n2.2 简单程序的一般形式9\n2.2.1 指令9\n2.2.2 函数9\n2.2.3 语句10\n2.2.4 显示字符串10\n2.3 注释11\n2.4 变量和赋值12\n2.4.1 类型12\n2.4.2 声明13\n2.4.3 赋值13\n2.4.4 显示变量的值14\n程序计算箱子的空间重量14\n2.4.5 初始化15\n2.4.6 显示表达式的值16\n2.5 读入输入16\n程序计算箱子的空间重量（改进版）16\n2.6 定义常量的名字17\n程序华氏温度转换为摄氏温度17\n2.7 标识符18\n2.8 C程序的书写规范19\n问与答21\n练习题23\n编程题24\n第3章 格式化输入\/输出26\n3.1 printf函数26\n3.1.1 转换说明27\n程序用printf函数格式化数28\n3.1.2 转义序列28\n3.2 scanf函数29\n3.2.1 scanf函数的工作方法30\n3.2.2 格式串中的普通字符31\n3.2.3 易混淆的printf函数和scanf函数32\n程序分数相加32\n问与答33\n练习题34\n编程题35\n第4章 表达式36\n4.1 算术运算符36\n程序计算通用产品代码的校验位38\n4.2 赋值运算符39\n4.2.1 简单赋值40\n4.2.2 左值41\n4.2.3 复合赋值41\n4.3 自增运算符和自减运算符42\n4.4 表达式求值43\n4.5 表达式语句45\n问与答45\n练习题47\n编程题49\n第5章 选择语句50\n5.1 逻辑表达式50\n5.1.1 关系运算符50\n5.1.2 判等运算符51\n5.1.3 逻辑运算符51\n5.2 if语句52\n5.2.1 复合语句53\n5.2.2 else子句53\n5.2.3 级联式if语句54\n程序计算股票经纪人的佣金55\n5.2.4 “悬空else”的问题56\n5.2.5 条件表达式57\n5.2.6 C89中的布尔值58\n5.2.7 C99中的布尔值58\n5.3 switch语句59\n程序显示法定格式的日期61\n问与答62\n练习题65\n编程题67\n第6章 循环69\n6.1 while语句69\n程序显示平方表71\n程序数列求和71\n6.2 do语句72\n程序计算整数的位数73\n6.3 for语句73\n6.3.1 for语句的惯用法74\n6.3.2 在for语句中省略表达式75\n6.3.3 C99中的for语句75\n6.3.4 逗号运算符76\n程序显示平方表（改进版）77\n6.4 退出循环78\n6.4.1 break语句78\n6.4.2 continue语句78\n6.4.3 goto语句79\n程序账簿结算80\n6.5 空语句81\n问与答83\n练习题84\n编程题85\n第7章 基本类型88\n7.1 整数类型88\n7.1.1 C99中的整数类型90\n7.1.2 整数常量90\n7.1.3 C99中的整数常量91\n7.1.4 整数溢出91\n7.1.5 读\/写整数91\n程序数列求和（改进版）92\n7.2 浮点类型93\n7.2.1 浮点常量94\n7.2.2 读\/写浮点数94\n7.3 字符类型94\n7.3.1 字符操作95\n7.3.2 有符号字符和无符号字符95\n7.3.3 算术类型96\n7.3.4 转义序列96\n7.3.5 字符处理函数97\n7.3.6 用scanf和printf读\/写字符98\n7.3.7 用getchar和putchar读\/写字符98\n程序确定消息的长度99\n7.4 类型转换100\n7.4.1 常用算术转换101\n7.4.2 赋值过程中的转换102\n7.4.3 C99中的隐式转换103\n7.4.4 强制类型转换103\n7.5 类型定义105\n7.5.1 类型定义的优点105\n7.5.2 类型定义和可移植性105\n7.6 sizeof运算符106\n问与答107\n练习题109\n编程题110\n第8章 数组113\n8.1 一维数组113\n8.1.1 数组下标113\n程序数列反向115\n8.1.2 数组初始化115\n8.1.3 指定初始化式116\n程序检查数中重复出现的数字116\n8.1.4 对数组使用sizeof运算符117\n程序计算利息118\n8.2 多维数组119\n8.2.1 多维数组初始化120\n8.2.2 常量数组121\n程序发牌121\n8.3 C99中的变长数组122\n问与答123\n练习题124\n编程题125\n第9章 函数129\n9.1 函数的定义和调用129\n程序计算平均值129\n程序显示倒计数130\n程序显示双关语（改进版）131\n9.1.1 函数定义132\n9.1.2 函数调用133\n程序判定素数134\n9.2 函数声明135\n9.3 实际参数136\n9.3.1 实际参数的转换137\n9.3.2 数组型实际参数138\n9.3.3 变长数组形式参数140\n9.3.4 在数组参数声明中使用static141\n9.3.5 复合字面量141\n9.4 return语句142\n9.5 程序终止143\n9.6 递归144\n程序快速排序146\n问与答147\n练习题150\n编程题153\n第10章 程序结构155\n10.1 局部变量155\n10.1.1 静态局部变量156\n10.1.2 形式参数156\n10.2 外部变量156\n10.2.1 示例：用外部变量实现栈156\n10.2.2 外部变量的利与弊157\n程序猜数158\n10.3 程序块161\n10.4 作用域162\n10.5 构建C程序163\n程序给一手牌分类163\n问与答169\n练习题169\n编程题170\n第11章 指针172\n11.1 指针变量172\n11.2 取地址运算符和间接寻址运算符173\n11.2.1 取地址运算符173\n11.2.2 间接寻址运算符174\n11.3 指针赋值174\n11.4 指针作为参数176\n程序找出数组中的最大元素和最小元素177\n11.5 指针作为返回值179\n问与答180\n练习题181\n编程题182\n第12章 指针和数组184\n12.1 指针的算术运算184\n12.1.1 指针加上整数185\n12.1.2 指针减去整数185\n12.1.3 两个指针相减186\n12.1.4 指针比较186\n12.1.5 指向复合常量的指针186\n12.2 指针用于数组处理186\n12.3 用数组名作为指针188程序数列反向（改进版）189\n12.3.1 数组型实际参数（改进版）189\n12.3.2 用指针作为数组名191\n12.4 指针和多维数组191\n12.4.1 处理多维数组的元素191\n12.4.2 处理多维数组的行192\n12.4.3 处理多维数组的列192\n12.4.4 用多维数组名作为指针192\n12.5 C99中的指针和变长数组193\n问与答194\n练习题195\n编程题197\n第13章 字符串198\n13.1 字符串字面量198\n13.1.1 字符串字面量中的转义序列198\n13.1.2 延续字符串字面量199\n13.1.3 如何存储字符串字面量199\n13.1.4 字符串字面量的操作200\n13.1.5 字符串字面量与字符常量200\n13.2 字符串变量200\n13.2.1 初始化字符串变量201\n13.2.2 字符数组与字符指针202\n13.3 字符串的读和写203\n13.3.1 用printf函数和puts函数写字符串203\n13.3.2 用scanf函数和gets函数读字符串203\n13.3.3 逐个字符读字符串204\n13.4 访问字符串中的字符205\n13.5 使用C语言的字符串库206\n13.5.1 strcpy函数207\n13.5.2 strlen函数208\n13.5.3 strcat函数208\n13.5.4 strcmp函数209程序显示一个月的提醒列表209\n13.6 字符串惯用法211\n13.6.1 搜索字符串的结尾211\n13.6.2 复制字符串213\n13.7 字符串数组214\n程序核对行星的名字217\n问与答218\n练习题220\n编程题222\n第14章 预处理器225\n14.1 预处理器的工作原理225\n14.2 预处理指令227\n14.3 宏定义227\n14.3.1 简单的宏227\n14.3.2 带参数的宏229\n14.3.3 #运算符231\n14.3.4 ##运算符231\n14.3.5 宏的通用属性232\n14.3.6 宏定义中的圆括号233\n14.3.7 创建较长的宏233\n14.3.8 预定义宏234\n14.3.9 C99中新增的预定义宏235\n14.3.10 空的宏参数236\n14.3.11 参数个数可变的宏236\n14.3.12 __func__标识符237\n14.4 条件编译237\n14.4.1 #if指令和#endif指令238\n14.4.2 defined运算符238\n14.4.3 #ifdef指令和#ifndef指令239\n14.4.4 #elif指令和#else指令239\n14.4.5 使用条件编译240\n14.5 其他指令240\n14.5.1 #error指令240\n14.5.2 #line指令241\n14.5.3 #pragma指令242\n14.5.4 _Pragma运算符242\n问与答243\n练习题245\n第15章 编写大型程序248\n15.1 源文件248\n15.2 头文件249\n15.2.1 #include指令249\n15.2.2 共享宏定义和类型定义250\n15.2.3 共享函数原型251\n15.2.4 共享变量声明252\n15.2.5 嵌套包含253\n15.2.6 保护头文件253\n15.2.7 头文件中的#error指令254\n15.3 把程序划分成多个文件254程序文本格式化255\n15.4 构建多文件程序260\n15.4.1 makefile260\n15.4.2 链接期间的错误262\n15.4.3 重新构建程序262\n15.4.4 在程序外定义宏264\n问与答264\n练习题265\n编程题266\n第16章 结构、联合和枚举267\n16.1 结构变量267\n16.1.1 结构变量的声明267\n16.1.2 结构变量的初始化269\n16.1.3 指定初始化269\n16.1.4 对结构的操作270\n16.2 结构类型270\n16.2.1 结构标记的声明271\n16.2.2 结构类型的定义272\n16.2.3 结构作为参数和返回值272\n16.2.4 复合字面量273\n16.3 嵌套的数组和结构274\n16.3.1 嵌套的结构274\n16.3.2 结构数组274\n16.3.3 结构数组的初始化275程序维护零件数据库275\n16.4 联合281\n16.4.1 用联合来节省空间282\n16.4.2 用联合来构造混合的数据结构284\n16.4.3 为联合添加“标记字段”284\n16.5 枚举285\n16.5.1 枚举标记和类型名286\n16.5.2 枚举作为整数286\n16.5.3 用枚举声明“标记字段”286\n问与答287\n练习题289\n编程题293\n第17章 指针的高级应用294\n17.1 动态存储分配294\n17.1.1 内存分配函数294\n17.1.2 空指针295\n17.2 动态分配字符串296\n……\n第18章 声明 327\n第19章 程序设计 345\n第20章 底层程序设计 363\n第21章 标准库 377\n第22章 输入\/输出 384\n第23章 库对数值和字符数据的支持 419\n第24章 错误处理 446\n第25章 国际化特性 456\n第26章 其他库函数 482\n第27章 C99对数学计算的新增支持 503\n附录A C语言运算符 524\n附录B C99与C89的比较 525\n附录C C89与经典C的比较 529\n附录D 标准库函数 532\n附录E ASCII字符集 569\n参考文献 570\n索引 573",
+      "pages": "600",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s4171870.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s4171870.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s4171870.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/4279678\/",
+      "id": "4279678",
+      "publisher": "人民邮电出版社",
+      "isbn10": "7115219575",
+      "isbn13": "9787115219572",
+      "title": "C语言程序设计",
+      "url": "https:\/\/api.douban.com\/v2\/book\/4279678",
+      "alt_title": "",
+      "author_intro": "K. N. King 世界知名的计算机程序设计教育家，现为佐治亚州立大学数学与计算机科学系副教授。他拥有耶鲁大学计算机科学硕士学位，加州大学伯克利分校计算机科学博士学位，曾任教于佐治亚理工学院。除本书外，他还撰写了广受欢迎的著作Modula-2: A Complete Guide 和Java Programming: From the Beginning，并在Dr.Dobb's Journal等权威杂志上发表了许多文章。\n吕秀锋，亚洲理工大学（AIT）计算机软件硕士，现为北京理工大学软件学院教师。多年来一直从事“计算机基础（双语）”、“C语言程序设计（双语）”以及“程序设计开发与实践”等本科生课程的教学工作，深受学生欢迎。她还译有《数据结构与算法：C＃语言描述》一书。\n黄倩，中国科学院计算技术研究所工学博士，中国计算机学会会员。研究方向包括视频处理、视频监控等，已在知名的国际期刊和国际会议论文集上发表10篇论文。译有《编程珠玑（第2版）》一书，受到读者欢迎。",
+      "summary": "时至今日， C语言仍然是计算机领域的通用语言之一，但今天的 C语言已经和最初的时候大不相同了。本书最主要的一个目的就是通过一种“现代方法”来介绍 C语言，书中强调标准 C，强调软件工程，不再强调“手工优化”。这一版中紧密结合了 C99标准，并与 C89标准进行对照，补充了 C99中的最新特性。本书分为 C语言的基础特性、 C语言的高级特性、 C语言标准库和参考资料 4个部分。每章末尾都有一个“问与答”小节给出一系列与该章内容相关的问题及答案，此外还包含适量的习题。\n本书是为大学本科阶段的 C语言课程编写的教材，同时也非常适合作为其他课程的辅助用书。",
+      "series": {
+        "id": "660",
+        "title": "图灵程序设计丛书"
+      },
+      "price": "79.00元"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "numRaters": 175,
+        "average": "9.6",
+        "min": 0
+      },
+      "subtitle": "",
+      "author": [
+        "Brian W.Kernighan",
+        "Dennis M.Ritchie"
+      ],
+      "pubdate": "1998-4",
+      "tags": [
+        {
+          "count": 183,
+          "name": "C语言",
+          "title": "C语言"
+        },
+        {
+          "count": 170,
+          "name": "C",
+          "title": "C"
+        },
+        {
+          "count": 68,
+          "name": "Programming",
+          "title": "Programming"
+        },
+        {
+          "count": 60,
+          "name": "编程",
+          "title": "编程"
+        },
+        {
+          "count": 50,
+          "name": "经典",
+          "title": "经典"
+        },
+        {
+          "count": 43,
+          "name": "计算机",
+          "title": "计算机"
+        },
+        {
+          "count": 41,
+          "name": "程序设计",
+          "title": "程序设计"
+        },
+        {
+          "count": 26,
+          "name": "计算机类",
+          "title": "计算机类"
+        }
+      ],
+      "origin_title": "",
+      "image": "https://img3.doubanio.com\/mpic\/s1440201.jpg",
+      "binding": "",
+      "translator": [],
+      "catalog": "Preface\nPreface to the Edition\nIntroduction\nChapter 1.A Tutorial Introduction\nChapter 2.Types, Operators, and Expressions\nChapter 3.Control Flow\nChapter 4.Functions and Program Struc\n",
+      "pages": "272",
+      "images": {
+        "small": "https://img3.doubanio.com\/spic\/s1440201.jpg",
+        "large": "https://img3.doubanio.com\/lpic\/s1440201.jpg",
+        "medium": "https://img3.doubanio.com\/mpic\/s1440201.jpg"
+      },
+      "alt": "https:\/\/book.douban.com\/subject\/1230004\/",
+      "id": "1230004",
+      "publisher": "清华大学出版社",
+      "isbn10": "730202412X",
+      "isbn13": "9787302024125",
+      "title": "C程序设计语言",
+      "url": "https:\/\/api.douban.com\/v2\/book\/1230004",
+      "alt_title": "",
+      "author_intro": "",
+      "summary": "C程序设计语言于1978年出了第一版，此后，计算机世界经历了一场革命，C语言也有了合理的变化。1988年美国国家标准学会就C语言的主义制订出了ANSI C标准。本书第二版就是按这个标准来描述C语言的。全书八章，分别分：1.指导性绪论；2.数据类型、运算符与表达式；3.控制流；4.函数与结构；5.指针与数组；6.结构；7.输入输出；8.UNIX系统界面。书后附录为：A.参考手册；B.标准库；C.语言",
+      "price": "23.00元"
+    }
+  ]
+}
